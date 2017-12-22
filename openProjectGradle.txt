@@ -1,0 +1,3 @@
+RecyclerView-FlexibleDivider
+	1.compile 'com.yqritc:recyclerview-flexibledivider:1.4.0'
+	2.项目地址：https://github.com/yqritc/RecyclerView-FlexibleDivider
